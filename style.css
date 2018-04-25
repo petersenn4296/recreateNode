@@ -1,0 +1,28 @@
+#image {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  height: 75px;
+  width: 122px;
+}
+.thelist {
+  font-size: 10px;
+}
+.list {
+  display: inline;
+  color: green;
+}
+a {
+  color: green;
+}
+.foot {
+  color: white;
+  font-size: 12px;
+}
+.footimg {
+  width:416px;
+  height: 15px;
+}
+#foottext {
+  line-height: 75%;
+}
