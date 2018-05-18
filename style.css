@@ -12,6 +12,10 @@
   display: inline;
   color: green;
 }
+.momma {
+  align-items: space-between;
+  margin-left: 280px;
+}
 a {
   color: green;
 }
